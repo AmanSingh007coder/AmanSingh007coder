@@ -62,10 +62,9 @@ Here are some of my projects 🚀:
 
 ---
 
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/AmanSingh007coder/AmanSingh007coder/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+### 🐍 Watch my contribution graph get eaten by a snake!
+
+![snake animation](https://raw.githubusercontent.com/AmanSingh007coder/AmanSingh007coder/output/dist/snake.svg)
 
 ---
 
