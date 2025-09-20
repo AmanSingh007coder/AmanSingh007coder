@@ -39,7 +39,7 @@
 
 ### 📂 Projects
 Here are some of my projects 🚀:
-- 🪨✂️📄 [Stone Paper Scissors](https://stone-paper-scissors-drab.vercel.app/)
+-[![Stone Paper Scissors](https://img.shields.io/badge/Stone%20Paper%20Scissors-%2300C853.svg?style=for-the-badge)](https://stone-paper-scissors-drab.vercel.app/)
 - 🎮 [Tic Tac Toe](https://tic-tac-toe-alpha-tawny-74.vercel.app/)
 - ⏱ [Stopwatch](https://stop-watch-one-pi.vercel.app/)
 - ✅ [To-Do List](https://to-do-list-app-five-jet.vercel.app/)
