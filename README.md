@@ -39,12 +39,14 @@
 
 ### 📂 Projects
 Here are some of my projects 🚀:
--[![Stone Paper Scissors](https://img.shields.io/badge/Stone%20Paper%20Scissors-%2300C853.svg?style=for-the-badge)](https://stone-paper-scissors-drab.vercel.app/)
-- 🎮 [Tic Tac Toe](https://tic-tac-toe-alpha-tawny-74.vercel.app/)
-- ⏱ [Stopwatch](https://stop-watch-one-pi.vercel.app/)
-- ✅ [To-Do List](https://to-do-list-app-five-jet.vercel.app/)
-- 🏢 [BizSite](https://bizsite-snowy.vercel.app/)
-- 🌐 [Portfolio Website](https://aman-singhdev.vercel.app/)
+
+- ✂️ <a href="https://stone-paper-scissors-drab.vercel.app/" target="_blank" style="text-decoration:none;">Stone Paper Scissors</a>  
+- 🎮 <a href="https://tic-tac-toe-alpha-tawny-74.vercel.app/" target="_blank" style="text-decoration:none;">Tic Tac Toe</a>  
+- ⏱ <a href="https://stop-watch-one-pi.vercel.app/" target="_blank" style="text-decoration:none;">Stopwatch</a>  
+- ✅ <a href="https://to-do-list-app-five-jet.vercel.app/" target="_blank" style="text-decoration:none;">To-Do List</a>  
+- 🏢 <a href="https://bizsite-snowy.vercel.app/" target="_blank" style="text-decoration:none;">BizSite</a>  
+- 🌐 <a href="https://aman-singhdev.vercel.app/" target="_blank" style="text-decoration:none;">Portfolio Website</a>
+
 
 ---
 
