@@ -43,29 +43,17 @@ Here are some of my projects 🚀:
 
 | Project | Tech | Demo |
 |---------|------|------|
-| ✂️ **Stone Paper Scissors** | HTML, CSS, JS | [Live](https://stone-paper-scissors-drab.vercel.app/) |
-| 🎮 **Tic Tac Toe** | HTML, CSS, JS | [Live](https://tic-tac-toe-alpha-tawny-74.vercel.app/) |
-| ⏱ **Stopwatch** | React, Tailwind | [Live](https://stop-watch-one-pi.vercel.app/) |
-| ✅ **To-Do List** | React, Tailwind | [Live](https://to-do-list-app-five-jet.vercel.app/) |
-| 🏢 **BizSite** | HTML, CSS, JS | [Live](https://bizsite-snowy.vercel.app/) |
-| 🌐 **Portfolio Website** | React, Tailwind | [Live](https://aman-singhdev.vercel.app/) |
+| ✂️ **Stone Paper Scissors** | HTML, CSS, JS | [Live Demo](https://stone-paper-scissors-drab.vercel.app/) |
+| 🎮 **Tic Tac Toe** | HTML, CSS, JS | [Live Demo](https://tic-tac-toe-alpha-tawny-74.vercel.app/) |
+| ⏱ **Stopwatch** | React, Tailwind | [Live Demo](https://stop-watch-one-pi.vercel.app/) |
+| ✅ **To-Do List** | React, Tailwind | [Live Demo](https://to-do-list-app-five-jet.vercel.app/) |
+| 🏢 **BizSite** | HTML, CSS, JS | [Live Demo](https://bizsite-snowy.vercel.app/) |
+| 🌐 **Portfolio Website** | React, Tailwind | [Live Demo](https://aman-singhdev.vercel.app/) |
 
 </div>
 
 ---
 
-### 🐍 Snake Game Animation
-Check out my interactive **Snake Game** 🎮:  
-
-<p align="center">
-  <a href="https://stone-paper-scissors-drab.vercel.app/snake" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Snake Game" width="400"/>
-  </a>
-</p>
-
-> Click the image to play the Snake game online!
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
