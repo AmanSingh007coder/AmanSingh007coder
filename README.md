@@ -62,11 +62,6 @@ Here are some of my projects 🚀:
 
 ---
 
-### 🐍 Watch my contribution graph get eaten by a snake!
-
-![snake animation](https://raw.githubusercontent.com/AmanSingh007coder/AmanSingh007coder/output/dist/snake.svg)
-
----
 
 ### 🌐 Connect with Me
 <p align="center">
