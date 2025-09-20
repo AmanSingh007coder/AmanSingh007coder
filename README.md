@@ -72,9 +72,7 @@ Here are some of my projects 🚀:
 ---
 
 ### ⚡ Fun Facts
-- 🐍 Python enthusiast (learning AI/ML)  
-- 🎵 Music keeps me coding for hours  
-- 🏃‍♂️ Fitness and tech go hand in hand  
+- 🎵 Music keeps me coding for hours
 - 🤝 Always open to **collaboration & mentorship opportunities**
 
 ---
