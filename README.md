@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=180&section=header&text=Aman%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h3 align="center">
-🚀 ISE Undergrad | Full-Stack Developer | AI & Data Science Enthusiast
+ ISE Undergrad | Full-Stack Developer | DSA in C++
 </h3>
 
 <p align="center">
@@ -15,20 +15,20 @@
 
 ---
 
-## ⚡ Who Am I?
+##  Who Am I?
 
 
 🎓 B.E. Information Science & Engineering (GPA: 9.87)
-💻 Full-Stack MERN Developer
-🤖 AI & Data Science Explorer
-🌱 Sustainability Tech Builder
-🏆 Hackathon Competitor
+. Full-Stack MERN Developer
+. AI & Data Science Explorer
+. Sustainability Tech Builder
+. Hackathon Competitor
 I love building real-world solutions by blending
-Web Development + AI + IoT + Blockchain
+Web Development + AI + Blockchain
 Learning by building, failing fast, and iterating faster.
 
 <img src="https://user-images.githubusercontent.com/74038190/216649442-55e4f1e7-34f3-4e06-9c41-0a4b45d90c47.gif" width="100%"/>
-🧠 Tech Arsenal
+=> Tech Arsenal
 💻 Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" /> </p>
 🌐 Frontend
@@ -36,7 +36,7 @@ Learning by building, failing fast, and iterating faster.
 ⚙️ Backend & Databases
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,nextjs" /> </p>
 🧰 Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vercel,arduino,linux" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vercel,arduino,render" /> </p>
 
 
 <h2 align="center">📂 Featured Projects</h2>
@@ -54,7 +54,7 @@ Learning by building, failing fast, and iterating faster.
     <td align="center"><b>Stone Paper Scissors</b></td>
     <td align="center">HTML • CSS • JavaScript</td>
     <td align="center">
-      <a href="https://stone-paper-scissors-drab.vercel.app/" target="_blank">🔗 View</a>
+      <a href="https://stone-paper-scissors-drab.vercel.app/" target="_blank">Live Demo 🔥</a>
     </td>
   </tr>
 
@@ -64,7 +64,7 @@ Learning by building, failing fast, and iterating faster.
     <td align="center"><b>Tic Tac Toe</b></td>
     <td align="center">HTML • CSS • JavaScript</td>
     <td align="center">
-      <a href="https://tic-tac-toe-alpha-tawny-74.vercel.app/" target="_blank">🔗 View</a>
+      <a href="https://tic-tac-toe-alpha-tawny-74.vercel.app/" target="_blank">Live Demo 🔥</a>
     </td>
   </tr>
 
@@ -74,7 +74,7 @@ Learning by building, failing fast, and iterating faster.
     <td align="center"><b>Stopwatch</b></td>
     <td align="center">React • Tailwind CSS</td>
     <td align="center">
-      <a href="https://stop-watch-one-pi.vercel.app/" target="_blank">🔗 View</a>
+      <a href="https://stop-watch-one-pi.vercel.app/" target="_blank">Live Demo 🔥</a>
     </td>
   </tr>
 
@@ -84,7 +84,7 @@ Learning by building, failing fast, and iterating faster.
     <td align="center"><b>To-Do List</b></td>
     <td align="center">React • Tailwind CSS</td>
     <td align="center">
-      <a href="https://to-do-list-app-five-jet.vercel.app/" target="_blank">🔗 View</a>
+      <a href="https://to-do-list-app-five-jet.vercel.app/" target="_blank">Live Demo 🔥</a>
     </td>
   </tr>
 
@@ -94,7 +94,7 @@ Learning by building, failing fast, and iterating faster.
     <td align="center"><b>BizSite</b></td>
     <td align="center">HTML • CSS • JavaScript</td>
     <td align="center">
-      <a href="https://bizsite-snowy.vercel.app/" target="_blank">🔗 View</a>
+      <a href="https://bizsite-snowy.vercel.app/" target="_blank">Live Demo 🔥</a>
     </td>
   </tr>
 
@@ -104,7 +104,7 @@ Learning by building, failing fast, and iterating faster.
     <td align="center"><b>Portfolio Website</b></td>
     <td align="center">React • Tailwind CSS</td>
     <td align="center">
-      <a href="https://aman-singhdev.vercel.app/" target="_blank">🔗 View</a>
+      <a href="https://aman-singhdev.vercel.app/" target="_blank">Live Demo 🔥</a>
     </td>
   </tr>
 </table>
@@ -114,11 +114,9 @@ Learning by building, failing fast, and iterating faster.
 
 🏆 Achievements & Experience
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AmanSingh007coder&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
-🥇 Cash Prize Winner – MakerBlitz Hardware Hackathon
-
-🚀 Selected for SIH Internal Round
-
-👨‍💻 Tech Team Member – Genesis Club (DSCE)
+     🥇 Cash Prize Winner – MakerBlitz Hardware Hackathon
+     🚀 Selected for SIH Internal Round
+     👨‍💻 Tech Team Member – Genesis Club (DSCE)
 
 📊 GitHub Performance
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AmanSingh007coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh007coder&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSingh007coder&bg_color=1a1b27&color=38bdae&line=00F7FF&point=ffffff&hide_border=true" /> </p>
