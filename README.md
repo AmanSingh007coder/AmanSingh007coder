@@ -1,137 +1,88 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1>
-<h3 align="center">ISE Undergrad | Full-Stack Developer | Aspiring Data Scientist | Hackathon Builder</h3>
+<!-- WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=180&section=header&text=Aman%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h3 align="center">
+  🚀 ISE Undergrad | Full-Stack Developer | AI & Data Science Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;AI+%26+Sustainability+Enthusiast;DSA+with+C%2B%2B;Building+Impactful+Tech+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Apps;AI+%2B+Sustainability+Projects;Hackathon+Problem+Solver;DSA+with+C%2B%2B;Turning+Ideas+into+Impact" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmanSingh007coder&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 **B.E. Information Science & Engineering** @ Dayananda Sagar College of Engineering  
-- 📊 **GPA: 9.87**  
-- 💻 Passionate **Full-Stack Developer (MERN)** with interest in **AI, Data Science & Sustainable Tech**
-- 🧠 Strong foundation in **DSA using C++**
-- 🤖 Love building **AI + Web + IoT + Blockchain** based real-world solutions
-- 🏆 Hackathon participant | Team collaborator | Fast learner
+## ⚡ Who Am I?
 
----
 
-## 🛠️ Tech Stack
+🎓 B.E. Information Science & Engineering (GPA: 9.87)
+💻 Full-Stack MERN Developer
+🤖 AI + Data Science Explorer
+🌱 Sustainability Tech Builder
+🏆 Hackathon Competitor
+I love building real-world solutions by blending
+Web Development + AI + IoT + Blockchain.
+Learning by building, failing fast, and iterating faster.
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<!-- ANIMATED DIVIDER --> <img src="https://user-images.githubusercontent.com/74038190/216649442-55e4f1e7-34f3-4e06-9c41-0a4b45d90c47.gif" width="100%"/>
+🧠 Tech Arsenal
+💻 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" /> </p>
+🌐 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> </p>
+⚙️ Backend & DB
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,nextjs" /> </p>
+🧰 Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vercel,arduino,linux" /> </p>
+🚀 Flagship Projects (High Impact)
+🌱 Eco AI
+Chrome Extension + Web App
+Uses Gemini API to reduce digital carbon footprint
+Focused on sustainability & responsible computing
+🔗 Link coming soon
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+🪨 Gani AI (Rockfall AI)
+AI + IoT powered mine safety system
+Real-time sensor fusion + predictive analytics
+Built for safer & smarter mining operations
+🔗 Link coming soon
 
-### ⚙️ Backend & Database
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+✍️ Zentry Blog
+Full-stack blogging platform
+JWT & Google Auth
+Cloudinary uploads, bookmarks, search
+🔗 Link coming soon
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+🧠 Nishtha AI
+AI + Blockchain learning platform
+Proof-of-Skill NFTs
+Skill assessment & credential verification
+🔗 Link coming soon
 
----
+🔐 Password Manager
+Secure centralized password vault
+Encrypted storage & retrieval
+🔗 Link coming soon
 
-## 📂 Featured Projects
+🌐 Portfolio Website
+React + Tailwind personal portfolio
+🔗 Link coming soon
 
-### 🌱 **Eco AI**
-- Sustainability platform (Chrome Extension + Web App)
-- Uses **Gemini API** to analyze and reduce **digital carbon footprint**
-- Focused on green tech & responsible computing  
-🔗 *Live / GitHub link coming soon*
+<!-- TROPHIES -->
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AmanSingh007coder&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
+🥇 Cash Prize Winner – MakerBlitz Hardware Hackathon
 
----
+🚀 SIH Internal Round Finalist
 
-### 🪨 **Gani AI (Rockfall AI)**
-- **AI + IoT** powered mine safety system
-- Real-time sensor data + predictive analytics
-- Built for safer, smarter, resilient mining  
-🔗 *Live / GitHub link coming soon*
+👨‍💻 Tech Team Member – Genesis Club (DSCE)
 
----
-
-### ✍️ **Zentry Blog**
-- Full-stack blogging platform
-- JWT & Google Auth
-- CRUD operations, bookmarking, full-text search
-- Cloudinary image uploads  
-🔗 *Live / GitHub link coming soon*
-
----
-
-### 🧠 **Nishtha AI**
-- **AI + Blockchain** learning platform
-- Converts YouTube courses into **verifiable credentials**
-- Code review, skill assessment & **Proof-of-Skill NFT minting**  
-🔗 *Live / GitHub link coming soon*
-
----
-
-### 🔐 **Password Manager**
-- Secure centralized password management system
-- Encrypted storage & easy retrieval
-- Focus on security & usability  
-🔗 *Live / GitHub link coming soon*
-
----
-
-### 🌐 **Portfolio Website**
-- Personal developer portfolio
-- Built using **React + Tailwind**
-- Showcases projects & skills  
-🔗 *Live link coming soon*
-
----
-
-## 🏆 Achievements & Experience
-- 🥇 **Cash Prize Winner** – MakerBlitz Hardware Hackathon  
-- 🚀 **Selected for SIH Internal Round** (DSCE)  
-- 👨‍💻 **Tech Team Member – Genesis Club (DSCE)**
-  - Development support
-  - Event tech handling
-  - Engineering contributions
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanSingh007coder&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh007coder&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh007coder&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-kumar-singh-be/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://aman-singhdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-  <a href="mailto:amansinghrajput9005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-</p>
-
----
-
-## ⚡ Fun Facts
-- 🎧 Music keeps me coding for hours
-- 🤝 Always open to **collaborations, internships & mentorship**
-- 🚀 Believe in **learning by building**
-
----
-
-⭐ **From [Aman Kumar Singh](https://github.com/AmanSingh007coder)**  
+📊 GitHub Performance
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AmanSingh007coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh007coder&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSingh007coder&bg_color=1a1b27&color=38bdae&line=00F7FF&point=ffffff&hide_border=true" /> </p>
+<!-- SNAKE ANIMATION --> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/aman-kumar-singh-be/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://aman-singhdev.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/> </a> <a href="mailto:amansinghrajput9005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
+<h3 align="center">⚡ Building • Learning • Iterating • Impacting ⚡</h3> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B00FF,100:00F7FF&height=120&section=footer"/> 
