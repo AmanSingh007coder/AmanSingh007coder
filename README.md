@@ -39,25 +39,78 @@ Learning by building, failing fast, and iterating faster.
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vercel,arduino,linux" /> </p>
 
 
----
+<h2 align="center">📂 Featured Projects</h2>
 
-### 📂 Projects
-Here are some of my projects 🚀:
+<br/>
 
-<div align="center">
+<table align="center" width="90%">
+  <tr>
+    <th align="center">🚀 Project</th>
+    <th align="center">🛠 Tech Stack</th>
+    <th align="center">🌐 Live Demo</th>
+  </tr>
 
-| Project | Tech | Demo |
-|---------|------|------|
-|  *Stone Paper Scissors* | HTML, CSS, JS | [Live Demo](https://stone-paper-scissors-drab.vercel.app/) |
-|  *Tic Tac Toe* | HTML, CSS, JS | [Live Demo](https://tic-tac-toe-alpha-tawny-74.vercel.app/) |
-|  *Stopwatch* | React, Tailwind | [Live Demo](https://stop-watch-one-pi.vercel.app/) |
-|  *To-Do List* | React, Tailwind | [Live Demo](https://to-do-list-app-five-jet.vercel.app/) |
-|  *BizSite* | HTML, CSS, JS | [Live Demo](https://bizsite-snowy.vercel.app/) |
-|  *Portfolio Website* | React, Tailwind | [Live Demo](https://aman-singhdev.vercel.app/) |
+  <tr>
+    <td align="center"><b>Stone Paper Scissors</b></td>
+    <td align="center">HTML • CSS • JavaScript</td>
+    <td align="center">
+      <a href="https://stone-paper-scissors-drab.vercel.app/" target="_blank">🔗 View</a>
+    </td>
+  </tr>
 
-</div>
+  <tr><td colspan="3"><br/></td></tr>
 
----
+  <tr>
+    <td align="center"><b>Tic Tac Toe</b></td>
+    <td align="center">HTML • CSS • JavaScript</td>
+    <td align="center">
+      <a href="https://tic-tac-toe-alpha-tawny-74.vercel.app/" target="_blank">🔗 View</a>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <tr>
+    <td align="center"><b>Stopwatch</b></td>
+    <td align="center">React • Tailwind CSS</td>
+    <td align="center">
+      <a href="https://stop-watch-one-pi.vercel.app/" target="_blank">🔗 View</a>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <tr>
+    <td align="center"><b>To-Do List</b></td>
+    <td align="center">React • Tailwind CSS</td>
+    <td align="center">
+      <a href="https://to-do-list-app-five-jet.vercel.app/" target="_blank">🔗 View</a>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <tr>
+    <td align="center"><b>BizSite</b></td>
+    <td align="center">HTML • CSS • JavaScript</td>
+    <td align="center">
+      <a href="https://bizsite-snowy.vercel.app/" target="_blank">🔗 View</a>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <tr>
+    <td align="center"><b>Portfolio Website</b></td>
+    <td align="center">React • Tailwind CSS</td>
+    <td align="center">
+      <a href="https://aman-singhdev.vercel.app/" target="_blank">🔗 View</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 
 🏆 Achievements & Experience
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AmanSingh007coder&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
