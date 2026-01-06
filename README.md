@@ -1,89 +1,137 @@
-<h1 align="center">Hi, I'm Aman Kumar Singh</h1>
-<h3 align="center">ISE 2nd Year Student | Web Developer | Aspiring Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1>
+<h3 align="center">ISE Undergrad | Full-Stack Developer | Aspiring Data Scientist | Hackathon Builder</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;DSA+%26+C%2B%2B+Enthusiast;Aspiring+Data+Scientist;Passionate+about+Building+Projects" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;AI+%26+Sustainability+Enthusiast;DSA+with+C%2B%2B;Building+Impactful+Tech+Projects" />
 </p>
 
 ---
 
-###  About Me
--  I’m a **2nd year Information Science & Engineering** student exploring **Full-Stack Web Development**  
--  Currently sharpening my **DSA skills using C++**  
--  Passionate about **Data Science & AI**, aiming to combine it with Web Dev skills  
--  Continuously learning and building projects to strengthen my portfolio  
--  I love **solving problems, experimenting with new tech, and creating impactful projects**  
+## 🚀 About Me
+- 🎓 **B.E. Information Science & Engineering** @ Dayananda Sagar College of Engineering  
+- 📊 **GPA: 9.87**  
+- 💻 Passionate **Full-Stack Developer (MERN)** with interest in **AI, Data Science & Sustainable Tech**
+- 🧠 Strong foundation in **DSA using C++**
+- 🤖 Love building **AI + Web + IoT + Blockchain** based real-world solutions
+- 🏆 Hackathon participant | Team collaborator | Fast learner
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend & Database
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+---
+
+## 📂 Featured Projects
+
+### 🌱 **Eco AI**
+- Sustainability platform (Chrome Extension + Web App)
+- Uses **Gemini API** to analyze and reduce **digital carbon footprint**
+- Focused on green tech & responsible computing  
+🔗 *Live / GitHub link coming soon*
+
+---
+
+### 🪨 **Gani AI (Rockfall AI)**
+- **AI + IoT** powered mine safety system
+- Real-time sensor data + predictive analytics
+- Built for safer, smarter, resilient mining  
+🔗 *Live / GitHub link coming soon*
+
+---
+
+### ✍️ **Zentry Blog**
+- Full-stack blogging platform
+- JWT & Google Auth
+- CRUD operations, bookmarking, full-text search
+- Cloudinary image uploads  
+🔗 *Live / GitHub link coming soon*
+
+---
+
+### 🧠 **Nishtha AI**
+- **AI + Blockchain** learning platform
+- Converts YouTube courses into **verifiable credentials**
+- Code review, skill assessment & **Proof-of-Skill NFT minting**  
+🔗 *Live / GitHub link coming soon*
+
+---
+
+### 🔐 **Password Manager**
+- Secure centralized password management system
+- Encrypted storage & easy retrieval
+- Focus on security & usability  
+🔗 *Live / GitHub link coming soon*
+
+---
+
+### 🌐 **Portfolio Website**
+- Personal developer portfolio
+- Built using **React + Tailwind**
+- Showcases projects & skills  
+🔗 *Live link coming soon*
+
+---
+
+## 🏆 Achievements & Experience
+- 🥇 **Cash Prize Winner** – MakerBlitz Hardware Hackathon  
+- 🚀 **Selected for SIH Internal Round** (DSCE)  
+- 👨‍💻 **Tech Team Member – Genesis Club (DSCE)**
+  - Development support
+  - Event tech handling
+  - Engineering contributions
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanSingh007coder&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh007coder&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh007coder&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 📂 Projects
-Here are some of my projects 🚀:
-
-<div align="center">
-
-| Project | Tech | Demo |
-|---------|------|------|
-|  **Stone Paper Scissors** | HTML, CSS, JS | [Live Demo](https://stone-paper-scissors-drab.vercel.app/) |
-|  **Tic Tac Toe** | HTML, CSS, JS | [Live Demo](https://tic-tac-toe-alpha-tawny-74.vercel.app/) |
-|  **Stopwatch** | React, Tailwind | [Live Demo](https://stop-watch-one-pi.vercel.app/) |
-|  **To-Do List** | React, Tailwind | [Live Demo](https://to-do-list-app-five-jet.vercel.app/) |
-|  **BizSite** | HTML, CSS, JS | [Live Demo](https://bizsite-snowy.vercel.app/) |
-|  **Portfolio Website** | React, Tailwind | [Live Demo](https://aman-singhdev.vercel.app/) |
-
-</div>
-
----
-
-
-###  GitHub Stats
+## 🤝 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanSingh007coder&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh007coder&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh007coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://www.linkedin.com/in/aman-kumar-singh-be/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://aman-singhdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+  <a href="mailto:amansinghrajput9005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-###  Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-kumar-singh-be/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://aman-singhdev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:amansinghrajput9005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## ⚡ Fun Facts
+- 🎧 Music keeps me coding for hours
+- 🤝 Always open to **collaborations, internships & mentorship**
+- 🚀 Believe in **learning by building**
 
 ---
 
-###  Fun Facts
--  Music keeps me coding for hours   
--  Always open to **collaboration & mentorship opportunities**
-
----
-
-⭐️ From [Aman Kumar Singh](https://github.com/AmanSingh007coder)
-  
-
-
-
+⭐ **From [Aman Kumar Singh](https://github.com/AmanSingh007coder)**  
