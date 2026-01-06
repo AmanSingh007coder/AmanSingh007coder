@@ -15,7 +15,7 @@
 
 ---
 
-##  Who Am I?
+##  Who Am I ??
 
 
 🎓 B.E. Information Science & Engineering (GPA: 9.87)
@@ -23,12 +23,12 @@
 . AI & Data Science Explorer
 . Sustainability Tech Builder
 . Hackathon Competitor
-I love building real-world solutions by blending
+ I love building real-world solutions by blending
 Web Development + AI + Blockchain
 Learning by building, failing fast, and iterating faster.
 
 <img src="https://user-images.githubusercontent.com/74038190/216649442-55e4f1e7-34f3-4e06-9c41-0a4b45d90c47.gif" width="100%"/>
-=> Tech Arsenal
+Tech Arsenal<br/>
 💻 Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" /> </p>
 🌐 Frontend
@@ -112,11 +112,11 @@ Learning by building, failing fast, and iterating faster.
 <br/>
 
 
-🏆 Achievements & Experience
+🏆 Achievements & Experience <br/>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AmanSingh007coder&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
-     🥇 Cash Prize Winner – MakerBlitz Hardware Hackathon
-     🚀 Selected for SIH Internal Round
-     👨‍💻 Tech Team Member – Genesis Club (DSCE)
+     🥇 Cash Prize Winner – MakerBlitz Hardware Hackathon<br/>
+     🚀 Selected for SIH Internal Round<br/>
+     👨‍💻 Tech Team Member – Genesis Club (DSCE)<br/>
 
 📊 GitHub Performance
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AmanSingh007coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh007coder&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSingh007coder&bg_color=1a1b27&color=38bdae&line=00F7FF&point=ffffff&hide_border=true" /> </p>
