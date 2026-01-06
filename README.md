@@ -37,14 +37,27 @@ Learning by building, failing fast, and iterating faster.
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,nextjs" /> </p>
 🧰 Tools & Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vercel,arduino,linux" /> </p>
-🚀 Projects Showcase
-🚧 Project Name	💻 GitHub Repository	🌐 Live Demo
-Eco AI	🔗 Coming Soon	🌍 Coming Soon
-Gani AI (Rockfall AI)	🔗 Coming Soon	🌍 Coming Soon
-Zentry Blog	🔗 Coming Soon	🌍 Coming Soon
-Nishtha AI	🔗 Coming Soon	🌍 Coming Soon
-Password Manager	🔗 Coming Soon	🌍 Coming Soon
-Portfolio Website	🔗 Coming Soon	🌍 Coming Soon
+
+
+---
+
+### 📂 Projects
+Here are some of my projects 🚀:
+
+<div align="center">
+
+| Project | Tech | Demo |
+|---------|------|------|
+|  *Stone Paper Scissors* | HTML, CSS, JS | [Live Demo](https://stone-paper-scissors-drab.vercel.app/) |
+|  *Tic Tac Toe* | HTML, CSS, JS | [Live Demo](https://tic-tac-toe-alpha-tawny-74.vercel.app/) |
+|  *Stopwatch* | React, Tailwind | [Live Demo](https://stop-watch-one-pi.vercel.app/) |
+|  *To-Do List* | React, Tailwind | [Live Demo](https://to-do-list-app-five-jet.vercel.app/) |
+|  *BizSite* | HTML, CSS, JS | [Live Demo](https://bizsite-snowy.vercel.app/) |
+|  *Portfolio Website* | React, Tailwind | [Live Demo](https://aman-singhdev.vercel.app/) |
+
+</div>
+
+---
 
 🏆 Achievements & Experience
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AmanSingh007coder&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
